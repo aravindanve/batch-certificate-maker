@@ -1,0 +1,11 @@
+.DS_Store
+
+/themes/resultslab.theme
+/themes/tripeasel-facebook.theme
+/themes/tripeasel-twitter.theme
+/themes/tripeasel-instagram.theme
+
+!/themes/sample.theme
+
+/download/*
+!/download/info.md

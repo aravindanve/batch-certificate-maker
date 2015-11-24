@@ -1,0 +1,19 @@
+/* print styles */
+@media print {
+    .controls {
+        display: none !important;
+    }
+    .divider {
+        display: none !important;
+    }
+    #certificates {
+        position: relative !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    #certificates svg {
+        position: relative !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+}

@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('fonts/Lora/Lora-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Muli';
+    src: url('fonts/Muli/Muli-Italic.ttf') format('truetype');
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Muli';
+    src: url('fonts/Muli/Muli-Light.ttf') format('truetype');
+    font-weight: 300;
+}
+.rl01A text {
+    font-family: 'Lora';
+    font-size: 20pt;
+
+}
+.rl01A text.candidate-name {
+    font-family: 'Muli';
+    font-size: 24pt;
+}
+.rl01A text.signatory {
+    font-size: 14pt;
+}
+.rl01A text.signatory tspan.sub {
+    font-size: 13pt;
+}
+.rl01A text.information {
+    font-family: 'Muli';
+    font-size: 10pt;
+}
+.rl01A text.information tspan.date {
+    fill: #555;
+}
+.rl01A text.information tspan.code {
+    fill: #3971D5;
+    font-weight: 700;
+}
+.rl01A text.footer-text {
+    font-family: 'Muli';
+    font-size: 8pt;
+}
